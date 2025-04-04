@@ -44,3 +44,4 @@ FACEBOOK_CLIENT_SECRET="..."
 NEXTAUTH_SECRET="..."
 STRIPE_SECRET_KEY="..."
 ```
+# smartadsbot
